@@ -1,14 +1,14 @@
 # Huffman-File-Compressor
 A C++ program that compresses files using the Huffman coding algorithm.
-##Features:
+## Features:
 -Huffman Tree
 -Min Heap data structure 
 -File compression 
 -Binary encoding
 
-##Language:
+## Language:
 C++
 
-##Author: 
+## Author: 
 Ahmed Elghamry
 Computer Engineering Student
